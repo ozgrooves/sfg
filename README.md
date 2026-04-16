@@ -3,13 +3,13 @@ Slick Footwork Gigs
 
 # Gigs
 
-## Prospect 
-
-* [26. Apr. 2026 @Wiesbaden](#26-apr-2026-wiesbaden)
-
 ## Booked
 
 * [11. Jul. 2026 @Mannheim](#11-jul-2026-mannheim)
+
+## Prospect 
+
+* [26. Apr. 2026 @Wiesbaden](#26-apr-2026-wiesbaden)
 
 ## History
 
@@ -21,21 +21,21 @@ Slick Footwork Gigs
 
 ## 15. Nov. 2025 Voltaire
 
-* cantaloupe woman
-* donin it till death
-* cold sweat
-* aint it funky
-* get up
-* soul power
-* turn it loose
-* its real
-* lady day
-* confusion
-* move on up
-* north carolina
-* tighten up
-* turtle walk
-* what it is
+* cantaloupe woman [D]
+* donin it till death [D]
+* cold sweat [D]
+* aint it funky [F]
+* get up [Eb]
+* turn it loose [D]
+* soul power [D]
+* its real [A]
+* lady day [C]
+* confusion [C]
+* move on up [Bm]
+* north carolina [E]
+* tighten up [F]
+* turtle walk [C]
+* what it is [D]
 
 [Back to top](#gigs)
 
