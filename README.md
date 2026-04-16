@@ -5,21 +5,21 @@ Slick Footwork Gigs
 
 ## Booked
 
-* [11. Jul. 2026 @Mannheim](#11-jul-2026-mannheim)
+* [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
 
 ## Prospect 
 
-* [26. Apr. 2026 @Wiesbaden](#26-apr-2026-wiesbaden)
+* [26. Apr 2026 @Wiesbaden](#26-apr-2026-wiesbaden)
 
 ## History
 
-* [15. Nov. 2025 @Voltaire](#15-nov-2025-voltaire)
+* [15. Nov 2025 @Voltaire](#15-nov-2025-voltaire)
 * [14. Aug. 2025 @Wohnzimmer](#14-aug-2025-wohnzimmer)
-* [30. Apr. 2025 @Ono2](#30-apr-2025-ono2)
+* [30. Apr 2025 @Ono2](#30-apr-2025-ono2)
 
 # Setlists
 
-## 15. Nov. 2025 Voltaire
+## 15. Nov 2025 Voltaire
 
 * cantaloupe woman [D]
 * donin it till death [D]
@@ -39,7 +39,7 @@ Slick Footwork Gigs
 
 [Back to top](#gigs)
 
-## 14. Aug. 2025 Wohnzimmer
+## 14. Aug 2025 Wohnzimmer
 
 ### Footwork Set
 
@@ -70,7 +70,7 @@ Slick Footwork Gigs
 
 [Back to top](#gigs)
 
-## 30. Apr. 2025 Ono2 
+## 30. Apr 2025 Ono2 
 
 ### Set A
 
