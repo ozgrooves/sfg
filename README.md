@@ -52,7 +52,7 @@ Slick Footwork Gigs
 * aint it funky now [F]
 * confusion [C]
 
-### manus songs
+### Manus songs
 
 * move on up [Bm]
 * just friends [Em]
