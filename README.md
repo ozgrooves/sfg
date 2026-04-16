@@ -41,7 +41,7 @@ Slick Footwork Gigs
 
 ## 14. Aug. 2025 Wohnzimmer
 
-### Opener Set
+### Footwork Set
 
 * cantaloupe woman [D]
 * shake your money maker [Eb]
@@ -52,7 +52,7 @@ Slick Footwork Gigs
 * aint it funky now [F]
 * confusion [C]
 
-### Manus songs
+### Manus Songs
 
 * move on up [Bm]
 * just friends [Em]
