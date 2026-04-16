@@ -51,7 +51,9 @@ Slick Footwork Gigs
 * cold sweat [D]
 * aint it funky now [F]
 * confusion [C]
-* manus songs
+
+### manus songs
+
 * move on up [Bm]
 * just friends [Em]
 * mutt [Fm]
