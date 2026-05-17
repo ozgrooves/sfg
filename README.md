@@ -5,6 +5,7 @@ Slick Footwork Gigs
 
 ## Booked
 
+* [21. May 2026 @Ciuri](#21-may-2026-ciuri)
 * [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
 
 ## Prospect 
@@ -18,6 +19,36 @@ Slick Footwork Gigs
 * [30. Apr 2025 @Ono2](#30-apr-2025-ono2)
 
 # Setlists
+
+## 21. May 2026 Ciuri
+
+* song 1
+* song 2
+* song 3
+* song 4
+
+## 11. Jul 2026 Mannheim
+
+* Everybody loves the sunshine
+* Feel like makin love
+* Valdez
+* Dear Limmertz
+* It‘s Real
+* Don‘t Joke
+* MRG
+* Cramp your Style
+* It‘s On
+* North Carolina
+* Cold Sweat -> Ain‘t it funky
+* JB Medley (Sex M, Turn it, Soul P)
+* Right On
+* Turtle Walk
+* Tighten Up
+* Move on up
+* Cypher Black
+* Lady Day -> Konfuzius
+
+* Dirty Old Bossa Nova
 
 ## 15. Nov 2025 Voltaire
 
