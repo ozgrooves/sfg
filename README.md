@@ -5,12 +5,12 @@ Slick Footwork Gigs
 
 ## Booked
 
-* [21. May 2026 @Ciuri](#21-may-2026-ciuri)
 * [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
+* [21. May 2026 @Ciuri](#21-may-2026-ciuri)
 
 ## Prospect 
 
-* [26. Apr 2026 @Wiesbaden](#26-apr-2026-wiesbaden)
+* ~~[26. Apr 2026 @Wiesbaden](#26-apr-2026-wiesbaden)~~
 
 ## History
 
@@ -19,13 +19,6 @@ Slick Footwork Gigs
 * [30. Apr 2025 @Ono2](#30-apr-2025-ono2)
 
 # Setlists
-
-## 21. May 2026 Ciuri
-
-* song 1
-* song 2
-* song 3
-* song 4
 
 ## 11. Jul 2026 Mannheim
 
@@ -48,7 +41,16 @@ Slick Footwork Gigs
 * Cypher Black
 * Lady Day -> Konfuzius
 
+Extras:
+
 * Dirty Old Bossa Nova
+
+## 21. May 2026 Ciuri
+
+* song 1
+* song 2
+* song 3
+* song 4
 
 ## 15. Nov 2025 Voltaire
 
