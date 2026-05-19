@@ -22,6 +22,7 @@ Slick Footwork Gigs
 
 ## 11. Jul 2026 Mannheim
 
+### Setlist
 * Everybody loves the sunshine
 * Feel like makin love
 * Valdez
@@ -41,9 +42,11 @@ Slick Footwork Gigs
 * Cypher Black
 * Lady Day -> Konfuzius
 
-Extras:
+### Extras:
 
 * Dirty Old Bossa Nova
+
+[Back to top](#gigs)
 
 ## 21. May 2026 Ciuri
 
@@ -67,9 +70,7 @@ Extras:
 * Turtle walk [C]
 * It's on [A]
 
-
-
-Zugabe: MRG
+[Back to top](#gigs)
 
 ## 15. Nov 2025 Voltaire
 
