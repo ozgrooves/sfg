@@ -47,10 +47,29 @@ Extras:
 
 ## 21. May 2026 Ciuri
 
-* song 1
-* song 2
-* song 3
-* song 4
+### Opener set:
+
+* Everybody loves the sunshine [F#m]
+* Feel like making love [F]
+* Valdez [Gm]
+* Dear limmertz [D]
+* JB medley (shake yo, turn it loose, soul power) [Eb -> D]
+* MRG (zugabe)
+
+### Session jam:
+
+* Liquid love [F]
+* Tighten up [F]
+* What it is [D]
+* Cissy strut [C]
+* The ghetto [Bb]
+* Right on [D]
+* Turtle walk [C]
+* It's on [A]
+
+
+
+Zugabe: MRG
 
 ## 15. Nov 2025 Voltaire
 
