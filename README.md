@@ -62,16 +62,16 @@ Slick Footwork Gigs
 
 ### Session
 
-* Liquid love [F]
-* Tighten up [F]
-* What it is [D]
 * Cissy strut [C]
-* The ghetto [Bb]
-* Right on [D]
-* Turtle walk [C]
+* Dirty old bossa [Bbm]
 * It's on [A]
+* Liquid love [F]
 * Move on up [Bm]
-* Dirty old bossa
+* Right on [D]
+* The ghetto [Bb]
+* Tighten up [F]
+* Turtle walk [C]
+* What it is [D]
 
 [Back to top](#gigs)
 
