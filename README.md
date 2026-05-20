@@ -64,7 +64,7 @@ Slick Footwork Gigs
 
 * Cissy strut [C]
 * Dirty old bossa [Bbm]
-* It's on [A]
+* It's real [A]
 * Liquid love [F]
 * Move on up [Bm]
 * Right on [D]
