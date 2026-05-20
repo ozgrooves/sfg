@@ -23,6 +23,7 @@ Slick Footwork Gigs
 ## 11. Jul 2026 Mannheim
 
 ### Setlist
+
 * Everybody loves the sunshine
 * Feel like makin love
 * Valdez
@@ -42,7 +43,7 @@ Slick Footwork Gigs
 * Cypher Black
 * Lady Day -> Konfuzius
 
-### Extras:
+### Extras
 
 * Dirty Old Bossa Nova
 
@@ -50,16 +51,16 @@ Slick Footwork Gigs
 
 ## 21. May 2026 Ciuri
 
-### Opener set:
+### Setlist
 
 * Everybody loves the sunshine [F#m]
 * Feel like making love [F]
-* Valdez [Gm]
+* Valdez in the country [Gm]
 * Dear limmertz [D]
-* JB medley (shake yo, turn it loose, soul power) [Eb -> D]
+* JB medley (get up, turn it loose, soul power) [Eb -> D]
 * MRG (zugabe)
 
-### Session jam:
+### Session
 
 * Liquid love [F]
 * Tighten up [F]
@@ -69,10 +70,14 @@ Slick Footwork Gigs
 * Right on [D]
 * Turtle walk [C]
 * It's on [A]
+* Move on up [Bm]
+* Dirty old bossa
 
 [Back to top](#gigs)
 
 ## 15. Nov 2025 Voltaire
+
+### Setlist
 
 * cantaloupe woman [D]
 * donin it till death [D]
