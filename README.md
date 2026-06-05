@@ -6,7 +6,7 @@ Slick Footwork Gigs
 ## Booked
 
 * [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
-* [21. May 2026 @Ciuri](#21-may-2026-ciuri)
+* [26. Jun 2026 @Walhalla](#26-jun-2026-walhalla)
 
 ## Prospect 
 
@@ -14,8 +14,9 @@ Slick Footwork Gigs
 
 ## History
 
+* [21. May 2026 @Ciuri](#21-may-2026-ciuri)
 * [15. Nov 2025 @Voltaire](#15-nov-2025-voltaire)
-* [14. Aug. 2025 @Wohnzimmer](#14-aug-2025-wohnzimmer)
+* [14. Aug 2025 @Wohnzimmer](#14-aug-2025-wohnzimmer)
 * [30. Apr 2025 @Ono2](#30-apr-2025-ono2)
 
 # Setlists
@@ -49,6 +50,39 @@ Slick Footwork Gigs
 
 [Back to top](#gigs)
 
+## 26. Jun 2026 Mannheim
+
+### Setlist
+
+* Everybody loves the sunshine [F#m]
+* Feel like making love [F]
+* Valdez in the country [Gm]
+* Dear limmertz [D]
+* JB medley (get up, turn it loose, soul power) [Eb -> D]
+* Dirty old bossa [Bbm]
+* MRG [D]
+
+### Singers
+
+* Waiting for you [?] [link](https://www.youtube.com/watch?v=_LqU_BOGCbo)
+* When im in your arms [?] [link](https://www.youtube.com/watch?v=hp0KiJs0S5g)
+* Gonna love me [?] [link](https://www.youtube.com/watch?v=UTVpt-YVHqw)
+* Feeling good [?] [link](https://www.youtube.com/watch?v=iq7uiUT9mgQ)
+* Something got a hold on me [?] [link](https://www.youtube.com/watch?v=2B8zW8uNToI)
+
+### Session
+
+* It's real [A]
+* Liquid love [Cm]
+* Move on up [Bm]
+* Right on [D]
+* The ghetto [Bb]
+* Tighten up [F]
+* Turtle walk [C]
+* What it is [D]
+
+[Back to top](#gigs)
+
 ## 21. May 2026 Ciuri
 
 ### Setlist
@@ -65,7 +99,7 @@ Slick Footwork Gigs
 * Cissy strut [C]
 * Dirty old bossa [Bbm]
 * It's real [A]
-* Liquid love [F]
+* Liquid love [Cm]
 * Move on up [Bm]
 * Right on [D]
 * The ghetto [Bb]
