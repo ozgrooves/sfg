@@ -52,28 +52,27 @@ Slick Footwork Gigs
 
 ## 26. Jun 2026 Walhalla
 
-### Setlist
+### Footwork Set
 
+* Dirty old bossa [Bbm]
 * Everybody loves the sunshine [F#m]
 * Feel like making love [F]
 * Valdez in the country [Gm]
 * Dear limmertz [D]
-* JB medley (get up, turn it loose, soul power) [Eb -> D]
-* Dirty old bossa [Bbm]
 * MRG [D]
 
-### Singers
+### Singers/Rappers
 
-* Waiting for you [?] [link](https://www.youtube.com/watch?v=_LqU_BOGCbo)
 * When im in your arms [?] [link](https://www.youtube.com/watch?v=hp0KiJs0S5g)
 * Gonna love me [?] [link](https://www.youtube.com/watch?v=UTVpt-YVHqw)
-* Feeling good [?] [link](https://www.youtube.com/watch?v=iq7uiUT9mgQ)
-* Something got a hold on me [?] [link](https://www.youtube.com/watch?v=2B8zW8uNToI)
+* Waiting for you [?] [link](https://www.youtube.com/watch?v=_LqU_BOGCbo)
+* Feeling good [Gm] [link](https://www.youtube.com/watch?v=iq7uiUT9mgQ)
+* Liquid love [Cm]
+* Electric relaxation[Eb]
 
-### Session
+### Session/Jamming
 
 * It's real [A]
-* Liquid love [Cm]
 * Move on up [Bm]
 * Right on [D]
 * The ghetto [Bb]
