@@ -50,7 +50,7 @@ Slick Footwork Gigs
 
 [Back to top](#gigs)
 
-## 26. Jun 2026 Mannheim
+## 26. Jun 2026 Walhalla
 
 ### Setlist
 
