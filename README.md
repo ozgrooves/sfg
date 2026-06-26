@@ -6,7 +6,6 @@ Slick Footwork Gigs
 ## Booked
 
 * [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
-* [26. Jun 2026 @Walhalla](#26-jun-2026-walhalla)
 
 ## Prospect 
 
@@ -14,6 +13,7 @@ Slick Footwork Gigs
 
 ## History
 
+* [26. Jun 2026 @Walhalla](#26-jun-2026-walhalla)
 * [21. May 2026 @Ciuri](#21-may-2026-ciuri)
 * [15. Nov 2025 @Voltaire](#15-nov-2025-voltaire)
 * [14. Aug 2025 @Wohnzimmer](#14-aug-2025-wohnzimmer)
@@ -66,9 +66,11 @@ Slick Footwork Gigs
 * When im in your arms [?] [link](https://www.youtube.com/watch?v=hp0KiJs0S5g)
 * Gonna love me [?] [link](https://www.youtube.com/watch?v=UTVpt-YVHqw)
 * Waiting for you [?] [link](https://www.youtube.com/watch?v=_LqU_BOGCbo)
-* Feeling good [Gm] [link](https://www.youtube.com/watch?v=iq7uiUT9mgQ)
-* Liquid love [Cm]
-* Electric relaxation[Eb]
+* Electric relaxation [Eb] [link](https://www.youtube.com/watch?v=TPS4LOkss1Y)
+* Liquid love [Cm] [link](https://www.youtube.com/watch?v=TPS4LOkss1Y)
+* The world is yours [?] [link](https://www.youtube.com/watch?v=U_u6mqary2A)
+* Stadtbild [?] [link](https://open.spotify.com/track/1diTejzrEUeHFzpDilfv6a?si=WOSy2rsiR2yiufMq3_eIKw)
+* Flowsoul [?] [link](https://open.spotify.com/track/1vzRP4hLYwPjC8FYPUhLqu?si=6WznLHTWRSePB6sD2-nG0Q)
 
 ### Session/Jamming
 
