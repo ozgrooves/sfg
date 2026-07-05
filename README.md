@@ -25,8 +25,6 @@ Slick Footwork Gigs
 
 ### Setlist
 
-* Everybody loves the sunshine
-* Feel like makin love
 * Valdez
 * Dear Limmertz
 * It‘s Real
@@ -39,14 +37,13 @@ Slick Footwork Gigs
 * JB Medley (Sex M, Turn it, Soul P)
 * Right On
 * Turtle Walk
-* Tighten Up
 * Move on up
 * Cypher Black
 * Lady Day -> Konfuzius
 
-### Extras
+### Zugabe (maybe)
 
-* Dirty Old Bossa Nova
+* Everybody loves the sunshine
 
 [Back to top](#gigs)
 
