@@ -5,14 +5,15 @@ Slick Footwork Gigs
 
 ## Booked
 
-* [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
+* ---
 
 ## Prospect 
 
-* ~~[26. Apr 2026 @Wiesbaden](#26-apr-2026-wiesbaden)~~
+* ---
 
 ## History
 
+* [11. Jul 2026 @Mannheim](#11-jul-2026-mannheim)
 * [26. Jun 2026 @Walhalla](#26-jun-2026-walhalla)
 * [21. May 2026 @Ciuri](#21-may-2026-ciuri)
 * [15. Nov 2025 @Voltaire](#15-nov-2025-voltaire)
@@ -22,6 +23,10 @@ Slick Footwork Gigs
 # Setlists
 
 ## 11. Jul 2026 Mannheim
+
+### Soundcheck
+
+* Everybody loves the sunshine
 
 ### Setlist
 
@@ -39,11 +44,10 @@ Slick Footwork Gigs
 * Turtle Walk
 * Move on up
 * Cypher Black
-* Lady Day -> Konfuzius
 
 ### Zugabe (maybe)
 
-* Everybody loves the sunshine
+* Lady Day -> Konfuzius
 
 [Back to top](#gigs)
 
@@ -69,7 +73,7 @@ Slick Footwork Gigs
 * Stadtbild [?] [link](https://open.spotify.com/track/1diTejzrEUeHFzpDilfv6a?si=WOSy2rsiR2yiufMq3_eIKw)
 * Flowsoul [?] [link](https://open.spotify.com/track/1vzRP4hLYwPjC8FYPUhLqu?si=6WznLHTWRSePB6sD2-nG0Q)
 
-### Session/Jamming
+### Session
 
 * It's real [A]
 * Move on up [Bm]
