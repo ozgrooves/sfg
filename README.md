@@ -1,15 +1,6 @@
-# sf
-Slick Footwork
+# Slick Footwork
 
 # Gigs
-
-## Booked
-
-* ---
-
-## Prospect 
-
-* ---
 
 ## History
 
