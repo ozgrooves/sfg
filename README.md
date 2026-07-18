@@ -1,5 +1,5 @@
-# sfg
-Slick Footwork Gigs
+# sf
+Slick Footwork
 
 # Gigs
 
@@ -30,24 +30,27 @@ Slick Footwork Gigs
 
 ### Setlist
 
-* Valdez
-* Dear Limmertz
-* It‘s Real
-* Don‘t Joke
+* Valdez in the country
+* Dear limmertz
 * MRG
-* Cramp your Style
-* It‘s On
-* North Carolina
-* Cold Sweat -> Ain‘t it funky
-* JB Medley (Sex M, Turn it, Soul P)
-* Right On
-* Turtle Walk
+* Dont joke with a hungry man
+* Cramp your style
+* It‘s on
+* North carolina
+* Cold sweat
+* Aint it funky
+* Get up
+* Turn it loose
+* Soul power
+* Right on
+* Turtle walk
 * Move on up
-* Cypher Black
+* Cypher black
 
 ### Zugabe (maybe)
 
-* Lady Day -> Konfuzius
+* Lady day and john coltrane
+* Confusion
 
 [Back to top](#gigs)
 
@@ -62,7 +65,7 @@ Slick Footwork Gigs
 * Dear limmertz [D]
 * MRG [D]
 
-### Singers/Rappers
+### Backing up Singers/Rappers
 
 * When im in your arms [?] [link](https://www.youtube.com/watch?v=hp0KiJs0S5g)
 * Gonna love me [?] [link](https://www.youtube.com/watch?v=UTVpt-YVHqw)
@@ -94,7 +97,10 @@ Slick Footwork Gigs
 * Valdez in the country [Gm]
 * Dear limmertz [D]
 * JB medley (get up, turn it loose, soul power) [Eb -> D]
-* MRG (zugabe)
+
+### Zugabe
+
+* MRG
 
 ### Session
 
@@ -116,7 +122,7 @@ Slick Footwork Gigs
 ### Setlist
 
 * cantaloupe woman [D]
-* donin it till death [D]
+* doin it till death [D]
 * cold sweat [D]
 * aint it funky [F]
 * get up [Eb]
